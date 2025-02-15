@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiusesgithub
-- 👀 I’m interested in Game development and App development 
+- 👀 I’m interested in App development 
 - 🌱 I’m proficient in C language,Python and Sql currently learning Kotlin
 - 📫 You can contact me on saisrujanpunati@gmail.com
 - 😄 Pronouns: He/Him
